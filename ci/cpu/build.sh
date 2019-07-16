@@ -4,4 +4,4 @@
 # cuDF CPU conda build script for CI #
 ######################################
 
-exit 0
+exit 1
